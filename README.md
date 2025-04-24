@@ -76,7 +76,7 @@ Identification of top-rated titles and content trends over the year
 📆Yearly Trends: Significant rise in content releases post-2000, peaking in the late 2010s
 
 
-
+---
 
 
 
