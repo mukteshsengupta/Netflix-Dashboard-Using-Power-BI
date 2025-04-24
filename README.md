@@ -3,7 +3,7 @@
 
 
 
-**Project Overview:**
+🎯**Project Overview:**
 
 
 This project analyzes Netflix’s content library to uncover insights about movies and TV shows listed on the platform from 1925 to 2021. Using Power BI, the dashboard visualizes trends in content type, release years, global distribution, and top-rated titles. The analysis helps understand viewer preferences and Netflix’s evolving content strategy.
@@ -17,7 +17,7 @@ This project analyzes Netflix’s content library to uncover insights about movi
 
 
 
-**Objective:**
+🎯**Objective:**
 
 
 To analyze the Netflix content library using data visualization and extract insights related to content type, ratings, geography, trends over time, and user preferences.
@@ -27,7 +27,7 @@ To analyze the Netflix content library using data visualization and extract insi
 
 
 
-**Scope:**
+🧭**Scope:**
 
 
 
@@ -51,29 +51,29 @@ Identification of top-rated titles and content trends over the year
 
 
 
-**Key Metrics & Features:**
+🔍**Key Metrics & Features:**
 
 
 
-Total Titles: 8,808 movies
+📚Total Titles: 8,808 movies
 
-Total Directors: 4,528
+🎬 Total Directors: 4,528
 
-Total Listings: 515 unique genres/categories
+🗂️Total Listings: 515 unique genres/categories
 
-Time Frame: Content spans from 1925 to 2021
+⏳Time Frame: Content spans from 1925 to 2021
 
-Content Type Breakdown:
+📊Content Type Breakdown:
 
 70% Movies
 
 30% TV Shows
 
-Top-rated Content: Includes titles like Death Note, Esperando la Carroza, and FullMetal Alchemist
+⭐Top-rated Content: Includes titles like Death Note, Esperando la Carroza, and FullMetal Alchemist
 
-Geographic Analysis: Highest content concentration in North America, Europe, and Asia
+🌍Geographic Analysis: Highest content concentration in North America, Europe, and Asia
 
-Yearly Trends: Significant rise in content releases post-2000, peaking in the late 2010s
+📆Yearly Trends: Significant rise in content releases post-2000, peaking in the late 2010s
 
 
 
